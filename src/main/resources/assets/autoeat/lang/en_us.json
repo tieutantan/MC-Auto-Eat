@@ -1,0 +1,13 @@
+{
+  "itemGroup.autoeat": "Example Mod Tab",
+  "block.autoeat.example_block": "Example Block",
+  "item.autoeat.example_item": "Example Item",
+
+  "autoeat.configuration.title": "Auto Eat Configs",
+  "autoeat.configuration.section.autoeat.common.toml": "Auto Eat Configs",
+  "autoeat.configuration.section.autoeat.common.toml.title": "Auto Eat Configs",
+  "autoeat.configuration.items": "Item List",
+  "autoeat.configuration.logDirtBlock": "Log Dirt Block",
+  "autoeat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "autoeat.configuration.magicNumber": "Magic Number"
+}
